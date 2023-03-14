@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%" >
+  <tr> <!-- tablo satırları olusturur -->
+  <th style="background-color:yellow">Company</th> <!-- tablo başlıkları olusturur -->
+  <th  >Contact</th>
+    <th>Country</th>
+  </tr>
+  
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td> <!-- tablo verileri anlamına gelir.-->
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+</html>
+
