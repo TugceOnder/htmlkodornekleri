@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<h1>The abbr element</h1>
+<h2 style="color:red;">The other Example </h2>
+
+<p><dfn><abbr title="Cascading Style Sheets">CSS</abbr>
+</dfn> is a language that describes the style of an HTML document.</p>
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.<p>
+
+<a href = "https://www.mfa.gov.tr/who.tr.mfa">The <abbr title="World Health Organization">WHO</abbr><a>
+
+<address>
+Written by <a href="mailto:webmaster@example.com">Jon Doe</a> <br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+</body>
+</html>
