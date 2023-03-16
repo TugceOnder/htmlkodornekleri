@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Unordered List with Disc Bullets</h2>
+
+<ul style="list-style-type:disc;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<ul style="list-style-type:circle;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ul style="list-style-type:square;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+<h3>Baska Bir Liste Örneği</h3>
+
+<ul style="list-style-type:square;" >
+  <li>Angular</li>
+  <li>javaScript
+    <ul style="list-style-type:disc;">
+      <li>Html</li>
+      <li>Css</li>
+    </ul>
+  </li>
+  <li>PrimeNg</li>
+</ul>
+
+<h3>Başıda Sayı Olan Liste</h3>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>  
+
+</body>
+</html>
+
